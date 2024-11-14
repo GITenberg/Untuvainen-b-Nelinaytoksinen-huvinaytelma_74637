@@ -1,0 +1,47 @@
+_repo: Untuvainen-b-Nelinaytoksinen-huvinaytelma_74637
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Krohn, Helmi
+    aliases:
+    - Setälä, Helmi
+    - Setala, Helmi
+    - Helmi Setälä
+    birthdate: 1871
+    deathdate: 1967
+    gutenberg_agent_id: '31724'
+    url: http://www.gutenberg.org/2009/agents/31724
+    wikipedia: https://fi.wikipedia.org/wiki/Helmi_Krohn
+creator:
+  author:
+    agent_name: Lagerlöf, Selma
+    aliases:
+    - Lagerlof, Selma
+    - Lagerlöf, Selma Ottiliana Lovisa
+    - Lagerloef, Selma
+    birthdate: 1858
+    deathdate: 1940
+    gutenberg_agent_id: '1717'
+    url: http://www.gutenberg.org/2009/agents/1717
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Selma_Lagerlöf
+    - https://sv.wikipedia.org/wiki/Selma_Lagerl%C3%B6f
+    - https://fi.wikipedia.org/wiki/Selma_Lagerl%C3%B6f
+description: ''
+gutenberg_issued: '2024-10-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74637'
+language: fi
+pgterms:marc905: 20170507051653lagerlf
+pgterms:marc906: '1922'
+pgterms:marc907: FI
+production_note: Tapio Riikonen
+publication_note: '  $aPorvoo :$bWSOY, $c1922.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Untuvainen : $b Nelinäytöksinen huvinäytelmä'
+url: http://www.gutenberg.org/ebooks/74637
