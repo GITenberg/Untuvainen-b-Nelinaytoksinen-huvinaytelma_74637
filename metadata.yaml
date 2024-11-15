@@ -12,6 +12,9 @@ contributor:
     gutenberg_agent_id: '31724'
     url: http://www.gutenberg.org/2009/agents/31724
     wikipedia: https://fi.wikipedia.org/wiki/Helmi_Krohn
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Lagerlöf, Selma
@@ -28,6 +31,8 @@ creator:
     - https://sv.wikipedia.org/wiki/Selma_Lagerl%C3%B6f
     - https://fi.wikipedia.org/wiki/Selma_Lagerl%C3%B6f
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/74637#Untuvainen-b-Nelinaytoksinen-huvinaytelma
 gutenberg_issued: '2024-10-25'
 gutenberg_type: Text
 identifiers:
